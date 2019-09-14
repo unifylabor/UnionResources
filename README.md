@@ -40,11 +40,9 @@ Eligibility Requirements: None
 
 ### Videos
 
-<!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/videoseries?list=PLlxx58H8EXB-soPYHrTbRfzE031aJk8oP&amp;showinfo=0" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-<!-- blank line -->
 
 ### Resources
 

@@ -40,9 +40,11 @@ Eligibility Requirements: None
 
 ### Videos
 
+<!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLlxx58H8EXB-soPYHrTbRfzE031aJk8oP" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+<!-- blank line -->
 
 ### Resources
 

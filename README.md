@@ -49,8 +49,8 @@ Contributions welcome. Please read the guidelines & be patient (we're all volunt
 
 #### Support Resources
 
-* Submit Bugs:  https://github.com/unifylabor/UnionResources/issues
-* Project Page:  https://github.com/unifylabor/UnionResources
+* Submit Bugs:  https://gitlab.com/unify-labor/union-resources/issues
+* Project Page:  https://gitlab.com/unify-labor/union-resources/issues
 
 #### License
 

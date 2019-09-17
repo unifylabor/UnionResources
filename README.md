@@ -40,9 +40,7 @@ Eligibility Requirements: None
 
 ### Videos
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/videoseries?list=PLlxx58H8EXB-soPYHrTbRfzE031aJk8oP&amp;showinfo=0" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![Union Education Video Playlist](http://img.youtube.com/vi/t8gsna5GQTo/0.jpg)](http://www.youtube.com/watch?v=t8gsna5GQTo "Union Education Video Playlist")
 
 ### Resources
 
